@@ -113,9 +113,11 @@ every eligible term within each library.
 
 ## Code and archive
 
-The repository is at https://github.com/shiyingqwq/kdm1a-itga5-tnbc. Tagged
-releases are archived on Zenodo, and the DOI for the archived version is given
-on the release page.
+The repository is at https://github.com/shiyingqwq/kdm1a-itga5-tnbc.
+
+Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.24411036. The
+concept DOI 10.5281/zenodo.24411035 refers to all versions and resolves to the
+latest one.
 
 ## License
 
