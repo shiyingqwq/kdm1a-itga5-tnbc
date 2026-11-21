@@ -111,6 +111,12 @@ Gene-level q values in step 8 are adjusted over the 13,241 genes that pass the
 abundance filter. Pathway q values in `pathway_ora.csv` are corrected across
 every eligible term within each library.
 
+## Code and archive
+
+The repository is at https://github.com/shiyingqwq/kdm1a-itga5-tnbc. Tagged
+releases are archived on Zenodo, and the DOI for the archived version is given
+on the release page.
+
 ## License
 
 MIT. See `LICENSE`.
