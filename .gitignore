@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/geo/
+data/cptac/
+data/depmap/
+data/singlecell/
+data/spatial/
+data/hypoxia/
+data/processed/
+results/*
+!results/.gitkeep
